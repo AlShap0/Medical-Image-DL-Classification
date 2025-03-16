@@ -12,8 +12,7 @@ such models. Various deep neural network models are proposed and trained on
 chestMNIST, a publicly available dataset of chest X-Rays. Models are compared
 to previously published benchmarks and results and implications are discussed.
 
-Code is available in: https://colab.research.google.com/drive/1IuAH_
-wrK0HGx7tHjEmbbVJI4NgCApBT7?usp=sharing
+Code is available in: https://colab.research.google.com/drive/1IuAH_wrK0HGx7tHjEmbbVJI4NgCApBT7?usp=sharing
 
 ## 1 Introduction
 
